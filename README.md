@@ -1,4 +1,14 @@
-### Hi there 👋
+### cytoplasm903 🍃
+<!--
+Hi! I'm _, and I'm looking for my first job as a **front-end developer**.
+
+## About me
+-->
+
+![HTML](https://img.shields.io/badge/-HTML-417dc1?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-417dc1?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-417dc1?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-417dc1?style=flat&logo=python&logoColor=white)
 
 <!--
 **tudarova/tudarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
