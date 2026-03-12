@@ -1,9 +1,6 @@
-### cytoplasm903 🍃
-<!--
-Hi! I'm _, and I'm looking for my first job as a **front-end developer**.
+### Hi there! 💙
 
-## About me
--->
+I'm **cytoplasm903**, and I'm looking for my first job as a **front-end developer**.
 
 ![HTML](https://img.shields.io/badge/-HTML-417dc1?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-417dc1?style=flat&logo=css&logoColor=white)
