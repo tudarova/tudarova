@@ -1,3 +1,4 @@
+<!--
 ### Hi there! 💙
 
 I'm **cytoplasm903**, and I'm looking for my first job as a **front-end developer**.
@@ -6,6 +7,8 @@ I'm **cytoplasm903**, and I'm looking for my first job as a **front-end develope
 ![CSS](https://img.shields.io/badge/-CSS-1047a3?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1047a3?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-1047a3?style=flat&logo=python&logoColor=white)
+-->
+
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣤⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
